@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ما بيننا إحساس صادق في كل مكان
+> أنتِ النبض وأنتِ نور الزمان
+> يا حبيبي روحي بين يديك
+> عيني دائمًا تبحث عن عينيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
