@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-benna-ehsas-sadek/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Ma Benna Ehsas Sadek](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Ma Benna Ehsas Sadek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
