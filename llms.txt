@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ma Benna Ehsas Sadek |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-benna-ehsas-sadek/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Ma Benna Ehsas Sadek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
